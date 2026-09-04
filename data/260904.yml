@@ -7,7 +7,7 @@ about:
   head: 48de4ca
   archived: false
   latestVersion: v0.4.4
-  collectedAt: 2026-09-04T19:50:25Z
+  collectedAt: 2026-09-04T20:48:56Z
 timeline:
   created: 2025-11-11
   lastCommit: 2026-07-25
@@ -80,5 +80,28 @@ total:
   openIssue: 2
   commit: 133
 ---
+path: /home/runner/.x-repo/github.com/JayanAXHF/filessh
+collectedAt: 2026-09-04T20:48:57Z
+loc:
+  Rust:
+    code: 4162
+    comments: 140
+    blanks: 465
+    files: 17
+  Toml:
+    code: 214
+    comments: 66
+    blanks: 12
+    files: 4
+  Markdown:
+    code: 0
+    comments: 352
+    blanks: 180
+    files: 3
+total:
+  code: 4407
+  comments: 724
+  blanks: 683
+  files: 24
 ---
 
