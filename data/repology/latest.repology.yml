@@ -1,0 +1,13 @@
+- repo: aur
+  srcname: filessh
+  binname: filessh
+  visiblename: filessh
+  version: 0.4.4
+  origversion: 0.4.4-1
+  status: unique
+  summary: A fast and convenient TUI file browser for remote servers
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+    - Unlincense
